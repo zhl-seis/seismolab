@@ -15,6 +15,8 @@ The README file is in English, but most other materials are in Chinese.
 
 ### Master Students
 
+- Jun Yan **2024/09**
+
 ### Undergraduate Students
 
 ## Group Reading
