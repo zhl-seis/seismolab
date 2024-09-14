@@ -6,38 +6,38 @@
 
 ## Past
 
-### 2023 Fall Semester
+<details>
+<summary> 2023 Fall Semester </summary>
 
-#### 2023-09-21 / LIU Xuan / Stress drop
+### 2023-09-21 / LIU Xuan / Stress drop
 
 - Shearer, P. M., Prieto, G. A., & Hauksson, E. (2006).
   Comprehensive analysis of earthquake source spectra in southern California.
   Journal of Geophysical Research: Solid Earth, 111(B6), 2005JB003979.
   https://doi.org/10.1029/2005JB003979
 
-#### 2023-10-07 / ZHAO Haoliang / Seismic Instrumentation
+### 2023-10-07 / ZHAO Haoliang / Seismic Instrumentation
 
 - Ringler, A. T., & Bastien, P. (2020).
   A Brief Introduction to Seismic Instrumentation: Where Does My Data Come From?
   Seismological Research Letters, 91(2A), 1074–1083.
   https://doi.org/10.1785/0220190214
 
-#### 2023-10-14 / LIU Xiaoyu / Explosion Monitoring
+### 2023-10-14 / LIU Xiaoyu / Explosion Monitoring
 
 - Dando, B. D. E., Goertz-Allmann, B. P., Brissaud, Q., Köhler, A., Schweitzer, J., Kværna, T., & Liashchuk, A. (2023).
   Identifying attacks in the Russia–Ukraine conflict using seismic array data.
   Nature, 621(7980), 767–772.
   https://doi.org/10.1038/s41586-023-06416-7
 
-
-#### 2023-10-21 / LIU Xuan / Earthquake Rupture Directivity
+### 2023-10-21 / LIU Xuan / Earthquake Rupture Directivity
 
 - Kane, D. L., Shearer, P. M., Goertz-Allmann, B. P., & Vernon, F. L. (2013).
   Rupture directivity of small earthquakes at Parkfield.
   Journal of Geophysical Research: Solid Earth, 118(1), 212-221.
   https://doi.org/10.1029/2012JB009675
 
-#### 2023-10-26 / ZHAO Haoliang / Earthquake Detection
+### 2023-10-26 / ZHAO Haoliang / Earthquake Detection
 
 - Gibbons, S. J., & Ringdal, F. (2006).
   The detection of low magnitude seismic events using array-based waveform correlation.
@@ -54,14 +54,14 @@
   Nature, 446(7133), 305–307.
   https://doi.org/10.1038/nature05666
 
-#### 2023-11-02 / LIU Xiaoyu / Inner Core Boundary
+### 2023-11-02 / LIU Xiaoyu / Inner Core Boundary
 
 -  Zhang, B., Ni, S., Wu, W., Shen, Z., Wang, W., Sun, D., & Wu, Z. (2023).
    Small-scale layered structures at the inner core boundary.
    Nature Communications, 14(1), 6362.
    https://doi.org/10.1038/s41467-023-42177-7
 
-#### 2023-11-09 / ZHAO Haoliang / Earthquake Detection
+### 2023-11-09 / ZHAO Haoliang / Earthquake Detection
 
 - Kao, H., & Shan, S.-J. (2004).
   The Source-Scanning Algorithm: mapping the distribution of seismic sources in time and space.
@@ -78,7 +78,7 @@
   Geophysical Journal International, 189(3), 1753–1770.
   https://doi.org/10.1111/j.1365-246X.2012.05457.x
 
-#### 2023-11-16 / LIU Xiaoyu / Inner Core Boundary
+### 2023-11-16 / LIU Xiaoyu / Inner Core Boundary
 
 - Koper, K. D. (2004).
   Observations of PKiKP/PcP amplitude ratios and implications for Earth structure at the boundaries of the liquid core.
@@ -93,7 +93,7 @@
   Journal of Geophysical Research: Solid Earth, 108(B3).
   https://doi.org/10.1029/2002JB001995
 
-#### 2023-11-23 / LIU Xuan / 2018 Mw 7.9 Gulf of Alaska Earthquake
+### 2023-11-23 / LIU Xuan / 2018 Mw 7.9 Gulf of Alaska Earthquake
 
 - Krabbenhoeft, A., Von Huene, R., Miller, J. J., Lange, D., & Vera, F. (2018).
   Strike-slip 23 January 2018 MW 7.9 Gulf of Alaska rare intraplate earthquake: Complex rupture of a fracture zone system.
@@ -108,7 +108,7 @@
   Geophysical Research Letters, 45(15), 7533-7541.
   https://doi.org/10.1029/2018GL078931
 
-#### 2023-12-14 / ZHAO Haoliang / Earthquake Detection
+### 2023-12-14 / ZHAO Haoliang / Earthquake Detection
 
 - Zhang, M., & Wen, L. (2015).
   An effective method for small event detection: match and locate (M&L).
@@ -119,24 +119,26 @@
   Seismological Research Letters, 91(5), 2426-2438.
   https://doi.org/10.1785/0220190241
 
-#### 2023-12-21 / LIU Xiaoyu / Inner Core Boundary
+### 2023-12-21 / LIU Xiaoyu / Inner Core Boundary
 
 - Waszek, L., & Deuss, A. (2015).
   Anomalously strong observations of PKiKP/PcP amplitude ratios on a global scale.
   Journal of Geophysical Research: Solid Earth, 120(7), 5175-5190.
   https://doi.org/10.1002/2015JB012038
 
-#### 2023-12-28 / LIU Xuan / Earthquake Source Spectrum
+### 2023-12-28 / LIU Xuan / Earthquake Source Spectrum
 
 - Ma, S., Li, Z., & Wang, W. (2022).
   Machine learning of source spectra for large earthquakes.
   Geophysical Journal International, 231(1), 692--702.
   https://doi.org/10.1093/gji/ggac215
 
+</details>
 
-### 2024 Spring Semester
+<details>
+<summary> 2024 Spring Semester </summary>
 
-#### 2024-03-07 / ZHAO Haoliang / Earthquake Detection by Martix Profile
+### 2024-03-07 / ZHAO Haoliang / Earthquake Detection by Martix Profile
 
 - Shabikay Senobari, N., Shearer, P. M., Funning, G. J., Zimmerman, Z., Zhu, Y., Brisk, P., & Keogh, E. (2024).
   The Matrix Profile in Seismology: Template Matching of Everything With Everything.
@@ -149,7 +151,7 @@
   https://doi.org/10.21105/joss.02179
 
 
-#### 2024-03-14 / LIU Xuan / Noto Earthquakes
+### 2024-03-14 / LIU Xuan / Noto Earthquakes
 
 - Amezawa, Y., Hiramatsu, Y., Miyakawa, A., Imanishi, K., & Otsubo, M. (2023).
   Long-Living Earthquake Swarm and Intermittent Seismicity in the Northeastern Tip of the Noto Peninsula, Japan.
@@ -172,14 +174,14 @@
   Geophysical Research Letters, 50(21), e2023GL106023.
   https://doi.org/10.1029/2023GL106023
 
-#### 2024-03-21 / LIU Xiaoyu / Seismic Array Analysis
+### 2024-03-21 / LIU Xiaoyu / Seismic Array Analysis
 
 - Rost, S., & Thomas, C. (2002).
   Array Seismology: Methods and Applications.
   Reviews of Geophysics, 40(3).
   https://doi.org/10.1029/2000RG000100
 
-#### 2024-03-28 / ZHAO Haoliang / Earthquake Catalog
+### 2024-03-28 / ZHAO Haoliang / Earthquake Catalog
 
 - Zhang, M., Liu, M., Feng, T., Wang, R., & Zhu, W. (2022).
   LOC-FLOW: An End-to-End Machine Learning-Based High-Precision Earthquake Location Workflow.
@@ -210,7 +212,7 @@
   Seismological Research Letters, 88(2A), 379-391.
   https://doi.org/10.1785/0220160188
 
-#### 2024-04-04 / LIU Xuan / Repeating Earthquakes
+### 2024-04-04 / LIU Xuan / Repeating Earthquakes
 
 - Cesca, S., Niemz, P., Dahm, T., & Ide, S. (2024).
   Anti-repeating earthquakes and how to explain them.
@@ -221,7 +223,7 @@
   Annual Review of Earth and Planetary Sciences, 47(1), 305-332.
   https://doi.org/10.1146/annurev-earth-053018-060119
 
-#### 2024-05-09 / LIU Xiaoyu / Inner Core Scattering
+### 2024-05-09 / LIU Xiaoyu / Inner Core Scattering
 
 - Leyton, F., & Koper, K. D. (2007a).
   Using PKiKP coda to determine inner core structure: 1. Synthesis of coda envelopes using single-scattering theories.
@@ -233,7 +235,7 @@
   https://doi.org/10.1029/2006JB004370
 
 
-#### 2024-05-17 / ZHAO Haoliang / Tidal Triggering
+### 2024-05-17 / ZHAO Haoliang / Tidal Triggering
 
 - Vidale, J. E., Agnew, D. C., Johnston, M. J. S., & Oppenheimer, D. H. (1998).
   Absence of earthquake correlation with Earth tides: An indication of high preseismic fault stress rate.
@@ -252,7 +254,7 @@
   Geophysical Research Letters, 50(11), e2023GL104375.
   https://doi.org/10.1029/2023GL104375
 
-#### 2024-05-23 / LIU Xuan / Creeping Faults
+### 2024-05-23 / LIU Xuan / Creeping Faults
 
 - Noda, H., Lapusta, N.
   Stable creeping fault segments can become destructive as a result of dynamic weakening.
@@ -267,15 +269,14 @@
   Rev. Geophys., 55, 282–286,
   https://doi.org/10.1002/2017RG000565.
 
-
-#### 2024-05-30 / LIU Xuan / Earthquake Faulting
+### 2024-05-30 / LIU Xuan / Earthquake Faulting
 
 - Scholz, C. H. (1998).
   Earthquakes and friction laws.
   Nature, 391(6662), 37–42.
   https://doi.org/10.1038/34097
 
-#### 2024-06-06 / LIU Xiaoyu / Inner Core Anisotropy
+### 2024-06-06 / LIU Xiaoyu / Inner Core Anisotropy
 
 - Poupinet, G., Pillet, R., & Souriau, A. (1983).
   Possible heterogeneity of the Earth’s core deduced from PKIKP travel times.
@@ -291,7 +292,7 @@
   https://doi.org/10.1029/GL013i013p01549
 
 
-#### 2024-06-13 / ZHAO Haoliang / Earthquake Nucleation
+### 2024-06-13 / ZHAO Haoliang / Earthquake Nucleation
 
 - Ellsworth, W. L., Bulut, F. (2018).
   Nucleation of the 1999 Izmit earthquake by a triggered cascade of foreshocks.
@@ -310,7 +311,7 @@
   Nature 350, 39–42.
   https://doi.org/10.1038/350039a0
 
-#### 2024-06-20 / LIU Xuan / Static Triggering
+### 2024-06-20 / LIU Xuan / Static Triggering
 
 - Geoffrey C. P. King, Ross S. Stein, Jian Lin (1994).
   Static stress changes and the triggering of earthquakes.
@@ -321,7 +322,7 @@
   Journal of Geophysical Research: Solid Earth, 107(B9), 2190.
   https://doi.org/10.1029/2001JB000911
 
-#### 2024-06-27 / LIU Xiaoyu / Inner Core Anisotropy
+### 2024-06-27 / LIU Xiaoyu / Inner Core Anisotropy
 
 - Niu, F., & Wen, L. (2001).
   Hemispherical variations in seismic velocity at the top of the Earth’s inner core.
@@ -337,7 +338,7 @@
   https://doi.org/10.1016/j.epsl.2006.03.043
 
 
-#### 2024-07-11 / ZHAO Haoliang / North Korea Nuclear Test
+### 2024-07-11 / ZHAO Haoliang / North Korea Nuclear Test
 
 - Wei, M. (2017).
   Location and source characteristics of the 2016 January 6 North Korean nuclear test constrained by InSAR.
@@ -359,3 +360,5 @@
   Relative relocations of the North Korean nuclear tests from 2006 to 2017 using the Hi-Net array in Japan.
   Geophysical Research Letters, 45, 7481–7487.
   https://doi.org/10.1029/2018GL078653
+
+</details>
