@@ -17,6 +17,10 @@ The README file is in English, but most other materials are in Chinese.
 
 ### Undergraduate Students
 
+## Group Reading
+
+[group_reading.md]()
+
 ## License
 
 Copyright (c) 2024, Dongdong Tian.
