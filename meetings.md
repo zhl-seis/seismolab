@@ -1,4 +1,4 @@
-# Group Readings
+# Group Meetings
 
 ## Planned
 
