@@ -19,7 +19,7 @@ The README file is in English, but most other materials are in Chinese.
 
 ## Group Reading
 
-[group_reading.md]()
+[group_reading.md](group_reading.md)
 
 ## License
 
