@@ -19,9 +19,9 @@ The README file is in English, but most other materials are in Chinese.
 
 ### Undergraduate Students
 
-## Group Reading
+## Group Meetings
 
-[group_reading.md](group_reading.md)
+[meetings.md](meetings.md)
 
 ## License
 
