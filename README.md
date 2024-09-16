@@ -11,5 +11,5 @@ This repository contains basic information of Prof. Dongdong Tian's SeismoLab.
 ### PhD Students
 
 ### Master Students
-
+- Haoliang Zhao
 ### Undergraduate Students
