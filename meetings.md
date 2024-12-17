@@ -104,6 +104,18 @@
   Geophysical Journal International, 239(2), 821–840.
   https://doi.org/10.1093/gji/ggae289
 
+### 2024-12-05 / Zhou Xinyu / Precursors for Mantle Fine Structure and Short-Distance Scattered P'P' for Deep Structure
+- Xu, F., Vidale, J. E., & Earle, P. S. (2003).
+  Survey of precursors to P ′ P ′: Fine structure of mantle discontinuities.
+  Journal of Geophysical Research: Solid Earth, 108(B1).
+  https://doi.org/10.1029/2001JB000817
+
+- Earle, P. S., Rost, S., Shearer, P. M., & Thomas, C. (2011). 
+  Scattered P’P’ Waves Observed at Short Distances. 
+  Bulletin of the Seismological Society of America, 101(6), 2843–2854. 
+  https://doi.org/10.1785/0120110157
+
+
 ## Past
 
 <details>
