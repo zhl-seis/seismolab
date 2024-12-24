@@ -44,10 +44,12 @@
   https://doi.org/10.1029/2001GL014118
 
 ### 2024-10-24 / Yan jun / Improved Focal-Depth Determination
-- Craig, T. J. (2019). Accurate Depth Determination for Moderate‐Magnitude Earthquakes Using Global Teleseismic Data.
+- Craig, T. J. (2019).
+  Accurate Depth Determination for Moderate‐Magnitude Earthquakes Using Global Teleseismic Data.
   Journal of Geophysical Research: Solid Earth, 124(2), 1759–1780.
   https://doi.org/10.1029/2018JB016902
-- Murphy, J. R. (2006). Improved Focal-Depth Determination through Automated Identification of the Seismic Depth Phases pP and sP.
+- Murphy, J. R. (2006).
+  Improved Focal-Depth Determination through Automated Identification of the Seismic Depth Phases pP and sP.
   Bulletin of the Seismological Society of America, 96(4A), 1213–1229.
   https://doi.org/10.1785/0120050259
 
@@ -95,6 +97,24 @@
   Generation of Shear Motion from an Isotropic Explosion Source by Scattering in Heterogeneous Media. 
   Bulletin of the Seismological Society of America, 106(5), 2313–2319. 
   https://doi.org/10.1785/0120150243
+
+### 2024-11-28 / Yan Jun / Accurate Focal-depth Determination
+- Blackwell, A., Craig, T., & Rost, S. (2024).
+  Automatic relocation of intermediate-depth earthquakes using adaptive teleseismic arrays.
+  Geophysical Journal International, 239(2), 821–840.
+  https://doi.org/10.1093/gji/ggae289
+
+### 2024-12-05 / Zhou Xinyu / Precursors for Mantle Fine Structure and Short-Distance Scattered P'P' for Deep Structure
+- Xu, F., Vidale, J. E., & Earle, P. S. (2003).
+  Survey of precursors to P ′ P ′: Fine structure of mantle discontinuities.
+  Journal of Geophysical Research: Solid Earth, 108(B1).
+  https://doi.org/10.1029/2001JB000817
+
+- Earle, P. S., Rost, S., Shearer, P. M., & Thomas, C. (2011). 
+  Scattered P’P’ Waves Observed at Short Distances. 
+  Bulletin of the Seismological Society of America, 101(6), 2843–2854. 
+  https://doi.org/10.1785/0120110157
+
 
 ## Past
 
