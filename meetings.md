@@ -125,7 +125,21 @@
   Knowledge Discovery and Data Mining.
   https://api.semanticscholar.org/CorpusID:355163
 
+### 2024-12-26 / Zhao Haoliang / Yangbi Earthquake Sequence
+- Sun, Q., Guo, Z., Pei, S., Fu, Y. V., & Chen, Y. J. (2022). 
+  Fluids Triggered the 2021 Mw 6.1 Yangbi Earthquake at an Unmapped Fault: Implications for the Tectonics at the Northern End of the Red River Fault. 
+  Seismological Research Letters, 93(2A), 666–679. 
+  https://doi.org/10.1785/0220210227
 
+- Zhou, Y., Ren, C., Ghosh, A., Meng, H., Fang, L., Yue, H., et al. (2022). 
+  Seismological Characterization of the 2021 Yangbi Foreshock‐Mainshock Sequence, Yunnan, China: More than a Triggered Cascade. 
+  Journal of Geophysical Research: Solid Earth, 127(8), e2022JB024534. 
+  https://doi.org/10.1029/2022JB024534
+
+- Zhu, G., Yang, H., Tan, Y. J., Jin, M., Li, X., & Yang, W. (2022). 
+  The cascading foreshock sequence of the Ms 6.4 Yangbi earthquake in Yunnan, China. 
+  Earth and Planetary Science Letters, 591, 117594. 
+  https://doi.org/10.1016/j.epsl.2022.117594
 
 ## Past
 
