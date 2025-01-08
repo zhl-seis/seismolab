@@ -141,6 +141,17 @@
   Earth and Planetary Science Letters, 591, 117594. 
   https://doi.org/10.1016/j.epsl.2022.117594
 
+### 2025-01-02 / Liu Xiaoyu / Fine-scale heterogeneity in the Earth's inner core
+- Pang, G., Koper, K. D., Wu, S.-M., Wang, W., Lasbleis, M., & Euler, G. (2023). 
+  Enhanced inner core fine-scale heterogeneity towards Earth’s centre. 
+  Nature. 
+  https://doi.org/10.1038/s41586-023-06213-2
+
+- Wang, W., & Vidale, J. E. (2022). 
+  An initial map of fine-scale heterogeneity in the Earth’s inner core. 
+  Nature Geoscience. 
+  https://doi.org/10.1038/s41561-022-00903-8
+
 ## Past
 
 <details>
